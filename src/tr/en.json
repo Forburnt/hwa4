@@ -1,0 +1,26 @@
+{
+    "tr": "en",
+    "title": "hordewatch",
+    "description": "An app to watch videos synchronously with others.",
+    "motd": "An app to watch videos synchronously with others.",
+
+    "by_author": "by",
+    "help": "help",
+    "debug": "debug",
+
+    "chat_prompt": "Your message",
+    "username": "Username",
+    "room": "Room",
+    "join": "Join",
+    "leave": "Leave",
+    "sync": "Sync",
+    "bump": "Bump",
+    "chat": "Chat",
+    "members": "Members",
+    "video_url": "Video URL",
+    "load_video": "Load Video",
+
+    "time_at": "at",
+    
+    "// end": ""
+}

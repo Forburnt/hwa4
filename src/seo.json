@@ -1,0 +1,36 @@
+{
+    "title": "hordewatch",
+    "description": "An app to watch videos synchronously with others.",
+    "author": "Forburnt",
+    "url": "https://hordewatch-alpha.glitch.me",
+    "image": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/hw256.png?v=1670610886963",
+    "poster": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/hw_poster.png?v=1670610886381",
+    "version": "0.3.0-alpha",
+    "license": "CC BY-NC-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0",
+    
+    "default_video": "https://bevyengine.org/news/bevy-0-9/skybox.mp4",
+    "help_url": "help",
+    "debug_url": "debug",
+    "motd": "An app to watch videos synchronously with others.",
+    
+    
+    "image_g": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/logo2.jpg?v=1670603523757",
+    "poster_g": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/eyes2narrow.jpg?v=1670603766666",
+    
+    
+    "image0": "https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-node-social.png?v=1618161394375",
+    "image1": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/logo2.png?v=1670603286089",
+    "image2": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/hordewatch_208px.png?v=1669728833740",
+    "image3": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/logo2.jpg?v=1670603523757",
+    "image4": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/hw256.png?v=1670610886963",
+    
+    "poster1": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/hordewatch_poster.png?v=1669735788446",
+    "poster2": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/hordewatch_narrow.png?v=1669738451797",
+    "poster3": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/eyes2.jpg?v=1670603540042",
+    "poster4": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/eyes2narrow.jpg?v=1670603766666",
+    "poster5": "https://cdn.glitch.global/7ea02886-0434-4f1d-8e45-55458968c987/hw_poster.png?v=1670610886381",
+    
+    "misc": ""
+  }
+  
